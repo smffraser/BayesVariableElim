@@ -9,3 +9,7 @@ The Variable Elimination Algorithm works as follows:
   3) sum out hidden variables from factor product
       * sum out in order of hidden_vars
   4) normalize the factor
+
+**To Run:**
+
+    ruby variable_elimination.rb
